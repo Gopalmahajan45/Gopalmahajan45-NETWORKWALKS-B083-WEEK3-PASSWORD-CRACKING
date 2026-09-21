@@ -162,24 +162,23 @@ nw{cybersecurity_flag_captured_2608}
 
 ### 1. PDF Hash Extraction
 
-![PDF Hash Extraction](screenshots/01-pdf-hash-extraction.png)
+![PDF Hash Extraction](./01-pdf-hash-extraction.png)
 
 ### 2. Hash Imported into Johnny
 
-![Johnny Hash Import](screenshots/02-johnny-hash-import.png)
+![Johnny Hash Import](./02-johnny-hash-import.png)
 
 ### 3. Password Successfully Cracked
 
-![Password Cracked](screenshots/03-password-cracked.png)
+![Password Cracked](./03-password-cracked.png)
 
 ### 4. Password Verification
 
-![Password Verification](screenshots/04-password-verification.png)
+![Password Verification](./04-password-verification.png)
 
 ### 5. Challenge Flag Captured
 
-![Flag Captured](screenshots/05-flag-captured.png)
-
+![Flag Captured](./05-flag-captured.png)
 ---
 
 ## 👨‍💻 Internship Details
